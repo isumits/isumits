@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @isumits
-- 👀 I’m interested in cyber security and app development
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on app development and cyber securuty projects
--
+- 👀 I’m a web developer and freelancer writer
+- 🌱 I’m very much intereseted in computer networking
+- 💞️ I’m looking to collaborate on some web developement projects and want to learn from others
 
 <!---
 isumits/isumits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
