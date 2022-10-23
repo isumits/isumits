@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isumits
 - 👀 I’m a web developer.
-- 🌱 I’m very much intereseted in computer networking
+- 🌱 I’m very much intereseted in frontend Development
 - 💞️ I’m looking to collaborate on some web developement projects and want to learn from others
 
 <!---
